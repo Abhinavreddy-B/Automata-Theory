@@ -1,0 +1,1 @@
+{"name":"Local: rps","url":"/home/abhinav/abhi/sem3/AT/Assignment2/q2/rps.cpp","tests":[{"id":1664108541603,"input":"4\nR 1 2 1\nR 2 1 2\nS 4 3 3\nS 3 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abhinav/abhi/sem3/AT/Assignment2/q2/rps.cpp","group":"local","local":true}
